@@ -20,4 +20,5 @@
 100-lets_move :  to move all files beginning with an uppercase letter to the directory /tmp/u
 101-clean_emacs : to delete all the files that ends with ~
 102-tree : create a directories and sub directories at the same time
-103-commas : list all the content of the current directory with commas separater and sorted by name 
+103-commas : list all the content of the current directory with commas separater and sorted by name
+school.mgc : a magic file to detect school files 
