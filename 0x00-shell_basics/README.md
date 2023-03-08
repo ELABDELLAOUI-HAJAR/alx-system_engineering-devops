@@ -16,4 +16,5 @@
 11-lists : to list the content of the current dir and the parent and /boot on long format including hidden files
 12-file_type : to print the type of the file named iamafile
 13-symbolic_link : to create a symbolic link
-14-copy_html : to change all html files to the parent directory 
+14-copy_html : to change all html files to the parent directory
+100-lets_move :  to move all files beginning with an uppercase letter to the directory /tmp/u 
