@@ -13,3 +13,4 @@
 8-firstdelete : to Delete the file betty
 9-firstdirdeletion : to delete the /tmp/my_first_directory directory
 10-back : to go back to the previous directory
+11-lists : to list the content of the current dir and the parent and /boot on long format including hidden files 
