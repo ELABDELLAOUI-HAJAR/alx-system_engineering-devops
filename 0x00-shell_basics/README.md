@@ -8,3 +8,4 @@
  - Long format
  - with user and group IDs displayed numerically
  - And hidden files (starting with .)
+6-firstdirectory : to create a directory named my_first_directory in /tmp/
