@@ -18,4 +18,5 @@
 13-symbolic_link : to create a symbolic link
 14-copy_html : to change all html files to the parent directory
 100-lets_move :  to move all files beginning with an uppercase letter to the directory /tmp/u
-101-clean_emacs : to delete all the files that ends with ~ 
+101-clean_emacs : to delete all the files that ends with ~
+102-tree : create a directories and sub directories at the same time 
