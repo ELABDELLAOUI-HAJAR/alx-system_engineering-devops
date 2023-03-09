@@ -11,3 +11,4 @@
 	* Group: no permission at all
 	* Other users: all the permissions
 9-John_Doe : Write a script that sets the mode of the file hello to this: 753
+10-mirror_permissions : Write a script that sets the mode of the file hello the same as olleh’s mode.
