@@ -6,3 +6,4 @@
 4-lastlines : Display the last 10 lines of /etc/passwd file.
 5-firstlines : Display the 10 first lines of /etc/passwd file.
 6-third_line : Display the third line of iacta file
+7-file : Create a file with a special characters
