@@ -12,3 +12,4 @@
 10-no_more_js : delete all js files
 11-directories : counts the number of directories and sub-directories in the current directory.
 12-newest_files : displays the 10 newest files in the current directory.
+13-unique : Create a script that takes a list of words as input and prints only words that appear exactly once.
