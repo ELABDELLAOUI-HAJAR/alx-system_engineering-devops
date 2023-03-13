@@ -10,3 +10,4 @@
 8-cwd_state : Redirect the output of a command to file and overwritten the file if exist.
 9-duplicate_last_line: Duplicate the last line of a file.
 10-no_more_js : delete all js files
+11-directories : counts the number of directories and sub-directories in the current directory.
