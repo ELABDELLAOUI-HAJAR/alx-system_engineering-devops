@@ -11,4 +11,5 @@
 9-divide_and_rule : Print the division of to global variables.
 10-love_exponent_breath : Print BREATH power LOVE
 11-binary_to_decimal : convert Binary number to decimal
-12-combinations : prints all possible combinations of two letters, except oo 
+12-combinations : prints all possible combinations of two letters, except oo
+13-print_float : prints a number with two decimal places 
