@@ -4,4 +4,5 @@
 2-path : Add a directory to PATH
 3-paths : count the number of directories in the PATH
 4-global_variables : print the global variables
-5-local_variables : print all the local & global variables and functions 
+5-local_variables : print all the local & global variables and functions
+6-create_local_variable : Create a local variable BEST 
