@@ -10,4 +10,5 @@
 8-true_knowledge : print the addition of 128 with the number stored into TRUEKNOWLEDGE variable
 9-divide_and_rule : Print the division of to global variables.
 10-love_exponent_breath : Print BREATH power LOVE
-11-binary_to_decimal : convert Binary number to decimal 
+11-binary_to_decimal : convert Binary number to decimal
+12-combinations : prints all possible combinations of two letters, except oo 
