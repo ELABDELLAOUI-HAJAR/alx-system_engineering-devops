@@ -7,3 +7,4 @@ In this project we will see the loops conditions and operators in shell scriptin
 | 2-while_best_schoo | script print "Best School" 10 times by using While loop |
 | 3-until_best_school | script prints "Best School" 10 times by using Until loop |
 | 4-if_9_say_hi | script prints "Best School" 10 times and prints "Hi" after the 9th iteration |
+| 5-4_bad_luck_8_is_your_chance | script loops 10 times and prints "bad luck" for the 4th iteration, "good luck" for the 8th iteration and "Best School" for others |
