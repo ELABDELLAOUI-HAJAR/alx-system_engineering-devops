@@ -4,3 +4,4 @@ In this project we will see the loops conditions and operators in shell scriptin
 | Task | Description |
 | ---- | ------------ |
 | 1-for_best_school | script is displaying "Best School" 10 times |
+| 2-while_best_schoo | script print "Best School" 10 times by using While loop |
