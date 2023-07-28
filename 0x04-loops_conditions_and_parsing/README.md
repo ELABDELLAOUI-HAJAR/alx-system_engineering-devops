@@ -10,3 +10,5 @@ In this project we will see the loops conditions and operators in shell scriptin
 | 5-4_bad_luck_8_is_your_chance | script loops 10 times and prints "bad luck" for the 4th iteration, "good luck" for the 8th iteration and "Best School" for others |
 | 6-superstitious_numbers | script displays numbers from 1 to 20 and prints "bad luck from China" at the 4th, "bad luck from Japan" at the 9th and "bad luck from Italy" at the 17th |
 | 7-clock | script that displays the time for 12 hours and 59 minutes |
+| 8-for_ls | script displays the content of the current directory in a list format where only the part of the name after the first dash is displayed |
+| 9-to_file_or_not_to_file | script gives information about the school file |
