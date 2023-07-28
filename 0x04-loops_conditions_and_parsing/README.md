@@ -12,3 +12,4 @@ In this project we will see the loops conditions and operators in shell scriptin
 | 7-clock | script that displays the time for 12 hours and 59 minutes |
 | 8-for_ls | script displays the content of the current directory in a list format where only the part of the name after the first dash is displayed |
 | 9-to_file_or_not_to_file | script gives information about the school file |
+| 10-fizzbuzz | script that displays numbers from 1 to 100 |
