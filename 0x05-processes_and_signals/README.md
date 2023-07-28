@@ -10,3 +10,5 @@ In this project we will practice a little bit about processes and signals
 | 4-to_infinity_and_beyond | script that displays To infinity and beyond indefinitely |
 | 5-dont_stop_me_now | script that stops 4-to_infinity_and_beyond process |
 | 6-stop_me_if_you_can |  script that stops 4-to_infinity_and_beyond process |
+| 7-highlander | script displays To infinity and beyond indefinitely, With a sleep 2 in between each iteration, I am invincible!!! when receiving a SIGTERM signal |
+
