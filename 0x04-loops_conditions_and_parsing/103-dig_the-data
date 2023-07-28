@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script sort the data so you can get a better idea of what is going on
+
+awk -F' ' '{ print $1, $9 }' apache-access.log | sort | uniq -c | sort -rn
