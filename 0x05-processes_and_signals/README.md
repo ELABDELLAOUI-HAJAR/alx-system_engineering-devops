@@ -8,3 +8,4 @@ In this project we will practice a little bit about processes and signals
 | 2-show_your_bash_pid | script that displays lines containing the bash word, thus allowing you to easily get the PID of your Bash process |
 | 3-show_your_bash_pid_made_easy | script that displays the PID, along with the process name, of processes whose name contain the word bash |
 | 4-to_infinity_and_beyond | script that displays To infinity and beyond indefinitely |
+| 5-dont_stop_me_now | script that stops 4-to_infinity_and_beyond process |
