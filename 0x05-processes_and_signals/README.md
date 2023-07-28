@@ -12,3 +12,5 @@ In this project we will practice a little bit about processes and signals
 | 6-stop_me_if_you_can |  script that stops 4-to_infinity_and_beyond process |
 | 7-highlander | script displays To infinity and beyond indefinitely, With a sleep 2 in between each iteration, I am invincible!!! when receiving a SIGTERM signal |
 | 8-beheaded_process | script that kills the process 7-highlander |
+| 100-process_and_pid_file | script that: <br/> * Creates the file /var/run/myscript.pid containing its PID <br/> * Displays To infinity and beyond indefinitely <br/> * Displays I hate the kill command when receiving a SIGTERM signal <br/> * Displays Y U no love me?! when receiving a SIGINT signal <br/> * Deletes the file /var/run/myscript.pid and terminates itself when receiving a SIGQUIT or SIGTERM signal |
+
