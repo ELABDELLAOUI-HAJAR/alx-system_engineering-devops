@@ -6,4 +6,5 @@
 | 2-repetition_token_1.rb | Regular expression for existence of a token or not |
 | 3-repetition_token_2.rb | Regular expression for repitition of the token for one or more |
 | 4-repetition_token_3.rb | Regular expression for repitition of the token for zero or more |
-| 5-beginning_and_end.rb | Regular expression must be exactly matching a string that starts with h ends with n and can have any single character in between | 
+| 5-beginning_and_end.rb | Regular expression must be exactly matching a string that starts with h ends with n and can have any single character in between |
+| 6-phone_number.rb | Regular expression must match a 10 digit phone number |
