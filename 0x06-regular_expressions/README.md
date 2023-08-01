@@ -4,4 +4,5 @@
 | 0-simply_match_school.rb | The regular expression must match School |
 | 1-repetition_token_0.rb | Regular expression for repitition tokens |
 | 2-repetition_token_1.rb | Regular expression for existence of a token or not |
-| 3-repetition_token_2.rb | Regular expression for repitition of the token for one or more | 
+| 3-repetition_token_2.rb | Regular expression for repitition of the token for one or more |
+| 4-repetition_token_3.rb | Regular expression for repitition of the token for zero or more | 
