@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Bash script that will fix the nginx port issue
+sed -i "s/8080/80/g" /etc/nginx/sites-enabled/default
+service nginx restart
