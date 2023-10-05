@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+# Configure your domain zone so that the subdomain
+
+call_dig(){
+	dig "$2"."$1" | grep -A1 'ANSWER SECTION:' | tail -n 1 | awk 'print "The subdomain " subdomain " is a " $4 " record and points to " $5}' subdomain="$2"
+}
+
+if [ "$#" == 1 ];
+then
+	call_dig "$1" "www"
+	call_dig "$1" "lb_01"
+	call_dig "$1" "web-01"
+	call_dig "$1" "web-02"
+elif [ "$#" == 2 ];
+then
+	call_dig "$1" "$2"
+fi
