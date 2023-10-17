@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 # script that run whoami command as the the giving user
-runuser -u "$1" whoami
+sudo -u "$1" whoami
