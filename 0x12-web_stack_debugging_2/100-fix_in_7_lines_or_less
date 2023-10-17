@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# make nginx run as nginx user and listen on all active IPs on port 8080
+pkill apache
+sed -i 's/80/8080/g' /etc/nginx/sites-available/default
+echo 'user nginx;' >> /etc/nginx/nginx.conf
+chmod 644 /etc/nginx/nginx.conf
+sudo -u nginx service nginx restart
