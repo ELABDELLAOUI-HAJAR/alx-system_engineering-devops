@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# script to backup all MYSQL databases
+
+mysqldump -u root --password=$1 --all-databases > backup.sql
+
+DATE_FORMAT=$(date +"%d-%m-%Y")
+
+tar -czvf "$DATE_FORMAT.tar.gz" backup.sql
