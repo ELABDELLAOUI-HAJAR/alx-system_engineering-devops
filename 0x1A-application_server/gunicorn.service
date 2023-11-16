@@ -13,10 +13,10 @@ Environment="HBNB_TYPE_STORAGE=db"
 WorkingDirectory=/home/ubuntu/AirBnB_clone_v4
 ExecStart=/home/ubuntu/.local/bin/gunicorn --workers 3 --bind 0.0.0.0:5003 --error-logfile /tmp/airbnb-error.log --access-logfile /tmp/airbnb-access.log  web_dynamic.2-hbnb:app
 ExecReload=/bin/kill -s HUP $MAINPID
-ExecStop=/bin/kill -s TERM $MAINPID
 PrivateTmp=true
 Restart=always
 KillMode=mixed
+TimeoutStopSec=5
 
 [Install]
 WantedBy=multi-user.target
